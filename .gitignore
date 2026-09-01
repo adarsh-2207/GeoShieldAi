@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / environment files
+.env
+.env.*
+!.env.example
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary / generated files
+tmp/
+temp/
+
+# Large/raw geospatial data
+*.tif
+*.tiff
+*.jp2
+*.hdf
+*.h5
+*.nc
