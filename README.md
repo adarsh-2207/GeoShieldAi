@@ -162,19 +162,8 @@ earthengine authenticate
 
 You need an Earth Engine-enabled Google account/project.
 
-### 5. Set your Earth Engine project ID
 
-**macOS / Linux**
-```bash
-export GEE_PROJECT_ID="your-earth-engine-project-id"
-```
-
-**Windows PowerShell**
-```powershell
-$env:GEE_PROJECT_ID="your-earth-engine-project-id"
-```
-
-### 6. Run GeoShield
+### 5. Run GeoShield
 
 ```bash
 streamlit run app.py
