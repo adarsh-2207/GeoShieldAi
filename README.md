@@ -1,2 +1,2 @@
-# GeoShield.Ai
+# GeoShieldAi
 Mine Collapse Risk Prediction System
