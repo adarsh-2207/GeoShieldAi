@@ -1,0 +1,11 @@
+# GeoShield AI - Python dependencies
+streamlit
+earthengine-api
+pandas
+numpy
+joblib
+matplotlib
+folium
+streamlit-folium
+geemap
+scikit-learn
